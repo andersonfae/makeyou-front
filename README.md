@@ -11,28 +11,29 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 ## Instalação
 
-Siga estas instruções para configurar e instalar o projeto localmente.
+Siga estas etapas para configurar e executar o projeto localmente:
 
-1. Clone o repositório:
+### Pré-requisitos
 
-````bash
-git clone https://github.com/andersonfae/makeyou-front
+Certifique-se de ter o Node.js e npm instalados em seu sistema. Você pode baixá-los em [nodejs.org](https://nodejs.org/).
 
-Navegue até o diretório do projeto:
+### Clonando o Repositório
+
 ```bash
+git clone https://github.com/andersonfae/makeyou-front
 cd make-you-front
-Instale as dependências:
+```
+
+### Instalando Dependências
 
 ```bash
 npm install
-# ou
-yarn
+```
 
-Uso
-Inicie o servidor de desenvolvimento:
+### Configurando a API
 
-bash
+Certifique-se de que a API Nest.js com MongoDB esteja em execução. Consulte a documentação da API para obter instruções de configuração.
+
+### Iniciando o Aplicativo React
+
 npm run dev
-# ou
-yarn dev
-````
