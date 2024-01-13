@@ -34,6 +34,6 @@ npm install
 
 Certifique-se de que a API Nest.js com MongoDB esteja em execução. Consulte a documentação da API para obter instruções de configuração.
 
-### Iniciando o Aplicativo React
+### Iniciando o Aplicativo Next
 
 npm run dev
