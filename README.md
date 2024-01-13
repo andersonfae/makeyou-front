@@ -1,6 +1,6 @@
 # Make You
 
-Este é o frontend da aplicação Make You.
+Este é o frontend da aplicação Make You, feito por Anderson Faé. Utilizando Next.js e Tailwind.
 
 ## Pré-requisitos
 
